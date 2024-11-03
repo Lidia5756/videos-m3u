@@ -1,0 +1,60 @@
+#EXTM3U
+
+#EXTINF:-1, PREMIER
+https://new.m3u8.one/pre1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PREMIER
+https://new.m3u8.one/pre7/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Globo Jornalismo SP
+https://stream.m3u8.one/globosp/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BAND
+https://stream.m3u8.one/band/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SBT
+https://new.m3u8.one/sbt/tracks-v1a1/mono.m3u8
+#EXTINF:-1, CNN
+https://new.m3u8.one/cnnbrasil/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ROCORD
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1786977757.m3u8
+#EXTINF:-1, SporTV
+https://new.m3u8.one/sportv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SporTV
+https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TV BRASIL
+https://tvbrasil-stream.ebc.com.br/chunks.m3u8
+#EXTINF:-1, TELECINE ACTION
+https://new.m3u8.one/teleaction/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TELECINE TOUCH
+https://new.m3u8.one/teletouch/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TELECINE PREMIUM
+https://new.m3u8.one/telepremium/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TELECINE PIPOCA
+https://new.m3u8.one/telepipoca/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TELECINE FUN
+https://new.m3u8.one/telefun/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TELECINE CULT
+https://new.m3u8.one/telecult/tracks-v1a1/mono.m3u8
+#EXTINF:-1, WARNER TV
+https://new.m3u8.one/warnetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HISTORY CHANNEL
+https://new.m3u8.one/history/tracks-v1a1/mono.m3u8
+#EXTINF:-1, CARTOON NETWORK
+https://new.m3u8.one/cartoon/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PREMIER
+https://stream.m3u8.one/pre2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SPORTV
+https://new.m3u8.one/sportv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, DISNEY
+https://new.m3u8.one/disneychannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1, NICK
+https://new.m3u8.one/nickjr/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HBO PLUS
+https://new.m3u8.one/hboplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HBO FAMILY
+https://new.m3u8.one/hbofamily/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HBO 2
+https://new.m3u8.one/hbo2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HBO FILMES
+https://new.m3u8.one/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TNT FILMES
+https://stream.m3u8.one/tnt/tracks-v1a1/mono.m3u8
+#EXTINF:-1, STAR CHANNEL
+https://new.m3u8.one/starchannel/tracks-v1a1/mono.m3u8
